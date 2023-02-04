@@ -2,3 +2,5 @@ futbol
 boca
 pelota
 botines
+guantes
+arco
